@@ -1,0 +1,53 @@
+{
+  "coord": {
+    "lon": 120.9822,
+    "lat": 14.6042
+  },
+  "weather": [
+    {
+      "id": 500,
+      "main": "Rain",
+      "description": "light rain",
+      "icon": "10n"
+    },
+    {
+      "id": 701,
+      "main": "Mist",
+      "description": "mist",
+      "icon": "50n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 77.63,
+    "feels_like": 79.32,
+    "temp_min": 77.05,
+    "temp_max": 78.8,
+    "pressure": 1007,
+    "humidity": 90
+  },
+  "visibility": 3500,
+  "wind": {
+    "speed": 4,
+    "deg": 51,
+    "gust": 11.99
+  },
+  "rain": {
+    "1h": 0.44
+  },
+  "clouds": {
+    "all": 100
+  },
+  "dt": 1647110607,
+  "sys": {
+    "type": 2,
+    "id": 2008256,
+    "country": "PH",
+    "sunrise": 1647122733,
+    "sunset": 1647165960
+  },
+  "timezone": 28800,
+  "id": 1701668,
+  "name": "Manila",
+  "cod": 200
+}
